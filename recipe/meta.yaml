@@ -1,6 +1,6 @@
 {% set name = "nbsmoke" %}
-{% set version = "0.3.0" %}
-{% set sha256 = "070e999db3902a0c62a94d76de8fb98da21eaee22d9e90eb42f1636c87e1b805" %}
+{% set version = "0.4.1" %}
+{% set sha256 = "ecca6a103a50cf94543b41a928a893bf28905215e4ceebc69d16d413e0465a19" %}
 
 package:
   name: {{ name|lower }}
