@@ -5,7 +5,7 @@ Home: http://github.com/pyviz/nbsmoke
 
 Package license: BSD-3-Clause
 
-Feedstock license: BSD 3-Clause
+Feedstock license: BSD-3-Clause
 
 Summary: Basic notebook checks. Do they run? Do they contain lint?
 
@@ -116,6 +116,5 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
-* [@ceball](https://github.com/ceball/)
 * [@jsignell](https://github.com/jsignell/)
 
