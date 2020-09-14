@@ -1,6 +1,6 @@
 {% set name = "nbsmoke" %}
-{% set version = "0.4.1" %}
-{% set sha256 = "ecca6a103a50cf94543b41a928a893bf28905215e4ceebc69d16d413e0465a19" %}
+{% set version = "0.5.0" %}
+{% set sha256 = "2400d7878e97714e822ab200a71fc71ede487e671f42b4b411745dba95f9cb32" %}
 
 package:
   name: {{ name|lower }}
@@ -42,8 +42,9 @@ about:
   license: BSD-3-Clause
   license_family: BSD
   license_file: LICENSE
-  summary: 'Basic notebook checks. Do they run? Do they contain lint?'
+  summary: Basic notebook checks. Do they run? Do they contain lint?
 
 extra:
   recipe-maintainers:
     - jsignell
+    - jbednar
